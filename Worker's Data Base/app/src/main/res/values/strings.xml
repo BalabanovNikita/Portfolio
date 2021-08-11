@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="FormTitle">Анкеты соискателей</string>
+
+    <string name="Branch1">Государственные организации</string>
+    <string name="Branch2">Добывающая отрасль</string>
+    <string name="Branch3">Информационные технологии</string>
+    <string name="Branch4">Услуги</string>
+
+    <string-array name="Branches">
+        <item name="Branch1">Государственные организации</item>
+        <item name="Branch2">Добывающая отрасль</item>
+        <item name="Branch3">Информационные технологии</item>
+        <item name="Branch4">Услуги</item>
+    </string-array>
+    <string name="Exp">Опыт работы</string>
+    <string name="Exp1">Без опыта</string>
+    <string name="Exp2">От 1 до 3 лет</string>
+    <string name="Exp3">От 3 до 6 лет</string>
+    <string name="Exp4">Более 6 лет</string>
+    <string-array name="Expiriences">
+        <item name="Exp1">Без опыта</item>
+        <item name="Exp2">От 1 до 3 лет</item>
+        <item name="Exp3">От 3 до 6 лет</item>
+        <item name="Exp4">Более 6 лет</item>
+    </string-array>
+
+    <string name="Education">Образование</string>
+    <string name="Education1">Неполное среднее</string>
+    <string name="Education2">Среднее</string>
+    <string name="Education3">Высшее</string>
+
+    <string name="Branche">Отрасль</string>
+
+    <string name="WorkType1">Полная занятость</string>
+    <string name="WorkType2">Частичная занятость</string>
+    <string name="WorkType3">Разовая работа</string>
+    <string name="WorkType4">Стажировка</string>
+
+    <string name="title1">Анкеты соискателей</string>
+
+    <string name="statisticTitle">Статистика</string>
+    <string name="newForm">Новая анкета</string>
+    <string name="FormList">Список анкет</string>
+
+    <string name="backButtonText">Назад</string>
+    <string name="updateText">Редактировать</string>
+    <string name="deleatText">Удалить</string>
+
+    <string name="FIO">Ф.И.О.</string>
+
+    <string name="secondName">Фамилия</string>
+    <string name="firstName">Имя</string>
+    <string name="thirdName">Отчество</string>
+    <string name="ziroR">0 руб</string>
+    <string name="wishedWorkpay">Желаемая зарплата</string>
+
+    <string name="typeOfWork">Тип желаемой занятости</string>
+
+    <string name="toggleButn1Off">Нет физических ограничний</string>
+    <string name="toggleButn1On">Есть физические ограничения</string>
+
+    <string name="toggleButn2Off">Нет судимости</string>
+    <string name="toggleButn2On">Есть судимость</string>
+    <string name="additionalInformation">Укажите здесь дополнительную информацию</string>
+    <string name="clearButton">Отчистить</string>
+    <string name="addButton">Добавить</string>
+    <string name="switchText">Я подтверждаю подлинность предоставленной информации и даю согласие на обработку своих персональных данных</string>
+    <string name="addInf">Доп информация</string>
+    <string name="numberOfForm">Номер анкеты</string>
+
+</resources>

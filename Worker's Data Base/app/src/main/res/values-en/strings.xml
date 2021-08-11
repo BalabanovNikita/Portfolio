@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Branch1">State organisations</string>
+    <string name="Branch2">Eergancy organisation</string>
+    <string name="Branch3">IT</string>
+    <string name="Branch4">Service</string>
+    <string name="Exp">Expirience of work</string>
+    <string name="Exp1">Without expirience</string>
+    <string name="Exp2">From 1 to 3 years</string>
+    <string name="Exp3">From 3 to 6 years</string>
+    <string name="Exp4">More 6 years</string>
+    <string name="Education">Education</string>
+    <string name="Education1">Not full middle</string>
+    <string name="Education2">Middle</string>
+    <string name="Education3">High</string>
+    <string name="Branche">Branch</string>
+    <string name="WorkType1">Full job</string>
+    <string name="WorkType2">Partial job</string>
+    <string name="WorkType3">Time-to-time job</string>
+    <string name="WorkType4">Internship</string>
+    <string name="title1">Workers forms</string>
+    <string name="statisticTitle">Statistic</string>
+    <string name="newForm">New form</string>
+    <string name="FormList">List of forms</string>
+    <string name="backButtonText">Back</string>
+    <string name="updateText">Update</string>
+    <string name="deleatText">Deleat</string>
+    <string name="FIO">Full name</string>
+    <string name="secondName">Second name</string>
+    <string name="firstName">First name</string>
+    <string name="thirdName">Third name</string>
+    <string name="ziroR">0 rub</string>
+    <string name="wishedWorkpay">Prefer workpay</string>
+    <string name="typeOfWork">Type of job</string>
+    <string name="toggleButn1Off">Physical limitation</string>
+    <string name="toggleButn1On">No physical limitation</string>
+    <string name="toggleButn2Off">Convictionals</string>
+    <string name="toggleButn2On">No convictionals</string>
+    <string name="additionalInformation">Write additional information here</string>
+    <string name="clearButton">Clear</string>
+    <string name="addButton">Add</string>
+    <string name="switchText">I confirm the authenticity of the information provided and consent to the processing of my personal data</string>
+    <string name="addInf">Additional information</string>
+    <string name="numberOfForm">Number of form</string>
+    <string name="FormTitle">Workers forms</string>
+</resources>
